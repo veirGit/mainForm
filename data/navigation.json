@@ -1,0 +1,8 @@
+{
+  "menu": {
+    "menu1":{"text":"Index","href":"index.html"}
+  },
+  "footer_menu": {
+    "menu1":{"text":"Index","href":"index.html"}
+  }
+}
